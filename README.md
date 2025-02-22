@@ -1,2 +1,1 @@
-# Git best practices
-from main
+# Git best practices branch
